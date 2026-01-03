@@ -1,6 +1,5 @@
 # Company-Report-End To End-Power-Bi
-📄 Report Pages Overview
-📌 1. Summary Report
+- 1. Summary Report
 
 Purpose: High-level business performance overview
 
@@ -16,7 +15,7 @@ Revenue vs Target tracking
 
 Date range slicer for time-based analysis
 
-📌 2. Product Report
+- 2. Product Report
 
 Purpose: Product-level performance analysis
 
@@ -32,7 +31,7 @@ Weekly profit trends
 
 Return count monitoring
 
-📌 3. Customer Report
+- 3. Customer Report
 
 Purpose: Customer behavior & segmentation
 
@@ -48,7 +47,7 @@ Orders by Age Group
 
 Orders by Income Level
 
-🔧 Features & Functionality
+- Features & Functionality
 
 Interactive slicers (Date, Category, Customer)
 
@@ -58,7 +57,7 @@ KPI cards and donut visuals
 
 Map-based geographical analysis
 
-🛠 Tools & Skills Used
+- Tools & Skills Used
 
 Power BI Desktop
 
@@ -68,7 +67,7 @@ DAX (Basic Measures & KPIs)
 
 Data Visualization & Analysis
 
-✅ Key Takeaway
+- Key Takeaway
 
 This dashboard helps businesses:
 
@@ -80,7 +79,7 @@ Understand customer demographics
 
 Monitor revenue, profit, and targets
 
-🎯 Use Case
+- Use Case
 
 Ideal for:
 
